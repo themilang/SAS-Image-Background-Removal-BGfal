@@ -1,0 +1,19 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 200 200"
+  width="200"
+  height="200"
+>
+  <!-- Base Square -->
+  <rect x="10" y="10" width="180" height="180" fill="none" stroke="#4A90E2" stroke-width="8" />
+
+  <!-- Pen Shape -->
+  <path
+    d="M100,50 L120,80 L100,110 L80,80 Z"
+    fill="#4A90E2"
+    stroke="#4A90E2"
+    stroke-width="2"
+  />
+  <!-- Highlight for Pen -->
+  <circle cx="100" cy="50" r="5" fill="white" />
+</svg>
